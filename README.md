@@ -11,6 +11,9 @@ Este projeto consiste na implementação de um jogo no estilo do clássico Snake
 para a disciplina de Prática em Organização de Computadores, bem como as
 modificações propostas para o processador mostrado durante as aulas.
 
+Link para o vídeo de apresentação: 
+https://drive.google.com/file/d/12Llb3gTo7ytasCVjgY_Owc_pMSGfOc-t/view?usp=drivesdk
+
 ## O Jogo
 
 Para executar o jogo, deve-se usar o arquivo "minhocucu.asm" no simulador 
