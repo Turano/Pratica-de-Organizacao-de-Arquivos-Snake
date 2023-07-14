@@ -40,6 +40,8 @@ paredes e obstáculos).
 Seguindo as instruções passadas em aula, modificamos o processador que nos foi
 passado para incluir uma nova instrução, a SCORE.
 
+![](img/NewInstruction.png)
+
 Essa nova instrução foi inicialmente pensada como um possível complemento para
 o nosso jogo, e seria responsável por auxiliar no cálculo da pontuação do
 jogador para cada fruta comida pelo minhocuçu (a "cobra" do jogo), mas até o
