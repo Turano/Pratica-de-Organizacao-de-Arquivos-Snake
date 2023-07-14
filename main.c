@@ -12,9 +12,9 @@ unsigned char fruitPos[2];
 
 static inline unsigned char is_reverse(char k, char lk)
 {
-	return (k == 'a' && lk == 'd') || (k == 'd' && lk == 'a') || (k == 'w'
-								      && lk ==
-								      's')
+	return (k == 'a' && lk == 'd')
+	    || (k == 'd' && lk == 'a')
+	    || (k == 'w' && lk == 's')
 	    || (k == 's' && lk == 'w');
 }
 
