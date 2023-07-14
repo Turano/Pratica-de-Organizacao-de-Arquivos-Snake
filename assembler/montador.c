@@ -800,7 +800,6 @@ void MontarInstrucoes(void)
                     str_tmp2 = parser_GetItem_s();
                     val2 = BuscaRegistrador(str_tmp2);
                     free(str_tmp2);
-                    parser_Match(',');
                     str_tmp1 = ConverteRegistrador(val1);
                     str_tmp2 = ConverteRegistrador(val2);
                     sprintf(str_msg,"%s%s%s0000",SCORE,str_tmp1,str_tmp2);
