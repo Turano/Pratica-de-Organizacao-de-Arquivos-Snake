@@ -17,13 +17,21 @@ Para executar o jogo, deve-se usar o arquivo "minhocucu.asm" no simulador
 fornecido em aula pelo professor Simões. Ao executar o simulador juntamente 
 com o arquivo do jogo (usando a tecla F7 para iniciar), a tela inicial do jogo 
 lhe apresenta 3 dificuldades diferentes (Fácil, Médio e Difícil), sendo que a 
-melhor de todas é obviamente a difícil ;). Caso perca, uma tela aparecerá 
+melhor de todas é obviamente a difícil ;).
+
+![](img/MainScreen.png)
+
+Caso perca, uma tela aparecerá 
 perguntando se gostaria de resetar o jogo ou se gostaria de receber uma 
 surpresa especial :).
+
+![](img/GameOverScreen.png)
 
 Os controles do minhocuçu (a "cobra"), são WASD para as direções, e o objetivo 
 é comer as frutas que são geradas no campo (cuidado para não colidir com 
 paredes e obstáculos).
+
+![](img/Game.png)
 
 ## Modificando o Processador
 
